@@ -1,2 +1,2 @@
-# sentinel_policies
-sentinel_policies
+# aws_sentinel_policies
+aws_sentinel_policies
