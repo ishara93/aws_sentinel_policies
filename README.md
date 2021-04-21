@@ -1,2 +1,2 @@
-# example_policies
-example_policies
+# sentinel_policies
+sentinel_policies
